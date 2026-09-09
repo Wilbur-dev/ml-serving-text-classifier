@@ -257,7 +257,7 @@ GET /version
 ## 13. 项目结构（Project Structure）
 
 ```bash
-fastapi-ml-example/
+ml-serving-platform/
 ├── app/
 │   ├── api/
 │   │   ├── routes/
